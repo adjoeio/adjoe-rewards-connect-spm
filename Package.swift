@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "RewardsConnectSDK",
-            url: "https://releases.adjoe.io/files/playtime/ios/advertise/887e718d8487/RewardsConnectSDK.zip",
-            checksum: "a23841422551ca5c362b6282f83350f7da9d114b1b386851768ab091a689c4bd"
+            url: "https://releases.adjoe.io/files/playtime/ios/advertise/1.2.0/RewardsConnectSDK.zip",
+            checksum: "57d2d1ba99b0e86b4352ee0d94256ad37cbce52fd8a1c32f1ea4062b2187ad7e"
         )
     ]
 )
